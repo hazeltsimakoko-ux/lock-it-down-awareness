@@ -14,7 +14,7 @@ reporting incidents.
 - docs/password-attacks.md: how passwords get stolen and how to protect them
 - docs/identity-theft.md: how personal details get misused
 - checklists/security-checklist.md: quick safety checklist
-
+  -templates/incident report template:what to do when something happens.
 ## Key threats covered
 Phishing, password attacks, identity theft
 
@@ -22,10 +22,10 @@ Phishing, password attacks, identity theft
 Read each guide, then tick off the checklist.
 
 ## Reporting an incident
-Practice contact details (made up): security@lockitdown.example
+Practice contact details (made up):2602371
 
 ## Sources
 List where your facts came from.
 
 ## Author
-Molly Tsimakoko, November 2026
+Neelo Molly Tau, November 2026
